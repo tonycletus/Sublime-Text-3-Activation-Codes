@@ -2,7 +2,7 @@ I have the latest Sublime Text 3143 so am going to use the second one
 
 For Sublime Text version 3, Build 3126, 3124, 3114 (Use This)
 
-—– BEGIN LICENSE —–
+â€”â€“ BEGIN LICENSE â€”â€“
 Michael Barnes
 Single User License
 EA7E-821385
@@ -14,13 +14,13 @@ B085E65E 2F5F5360 8489D422 FB8FC1AA
 FCCC7561 8A4A1741 68FA4223 ADCEDE07
 200C25BE DBBC4855 C4CFB774 C5EC138C
 0FEC1CEF D9DCECEC D3A5DAD1 01316C36
-—— END
+â€”â€” END â€”â€”
 
 ____________________________________________________________________________________________
 
 For Sublime Text versioin 3, Build 3143 (latest version)
 
-—– BEGIN LICENSE —–
+â€”â€“ BEGIN LICENSE â€”â€“
 TwitterInc
 200 User License
 EA7E-890007
@@ -32,4 +32,4 @@ D1EDDD8C AE7B379F 50C9D69D B35179EF
 D5D52613 C3D12E98 BC49967F 7652EED2
 9D2D2E61 67610860 6D338B72 5CF95C69
 E36B85CC 84991F19 7575D828 470A92AB
-—— END LICENSE ——
+â€”â€” END LICENSE â€”â€”
